@@ -1,0 +1,1 @@
+<template><FeaturePage title="产品对比" subtitle="把复杂条款，放在一起看明白" headline="两款医疗保障计划" body="重点比较免赔额、保障范围和续费条件，最终选择请以正式条款为准。" action="查看对比结果" :items="['全能医疗：保障范围更完整','安心医疗：保费更轻量','吉象提示：先看免赔额和续费条件']"/></template><script setup lang="ts">import FeaturePage from '@/components/FeaturePage.vue'</script>

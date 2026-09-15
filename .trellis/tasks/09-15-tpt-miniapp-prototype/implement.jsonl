@@ -1,0 +1,4 @@
+{"file": ".trellis/spec/frontend/index.md", "reason": "前端规范入口，确认工程边界与开发约定"}
+{"file": ".trellis/spec/frontend/component-guidelines.md", "reason": "复用组件和组件边界规范"}
+{"file": ".trellis/spec/frontend/type-safety.md", "reason": "TypeScript 类型安全规范"}
+{"file": "docs/太平通2.0-核心页面功能详细设计.md", "reason": "页面目标、路由、交互和验收依据"}

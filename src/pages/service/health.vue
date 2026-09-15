@@ -1,0 +1,1 @@
+<template><FeaturePage title="健康行动" subtitle="每天一点小行动，积累健康感" headline="今日健康任务" body="完成任务可以获得演示积分，健康数据只用于本次原型展示。" action="完成今日任务" metric="+20" :items="['饭后步行 20 分钟 · 未完成','饮水 1500 ml · 进行中','本周已完成 4 / 7 天']"/></template><script setup lang="ts">import FeaturePage from '@/components/FeaturePage.vue'</script>

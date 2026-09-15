@@ -1,0 +1,1 @@
+<template><FeaturePage title="保单健诊" subtitle="吉象帮你把保障缺口找出来" headline="发现 2 项待关注" body="当前家庭医疗保障覆盖 67%，建议先为爸爸补充住院医疗保障。" action="查看补充建议" metric="2 项" :items="['爸爸：住院医疗保障偏弱','家庭：重大疾病保障额度偏低','已有保障：续费状态正常']"/></template><script setup lang="ts">import FeaturePage from '@/components/FeaturePage.vue'</script>

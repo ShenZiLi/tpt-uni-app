@@ -1,0 +1,1 @@
+<template><FeaturePage title="家庭保障" subtitle="一家人的保障，一眼就能看懂" headline="家庭保障完整度" body="你和家人共有 3 人，当前有 2 项保障缺口，建议优先补齐医疗保障。" action="开始保单健诊" metric="78%" :items="['Viz · 医疗、意外保障齐全','爸爸 · 建议关注医疗保障','妈妈 · 保障状态良好']"/></template><script setup lang="ts">import FeaturePage from '@/components/FeaturePage.vue'</script>

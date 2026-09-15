@@ -1,0 +1,1 @@
+<template><FeaturePage title="保单详情" subtitle="全能医疗保障计划 · 保障中" headline="看懂这张保单" body="住院医疗、特殊门诊均在保障范围内，续费日为 2025年10月3日。" action="问问吉象" metric="¥300万" :items="['保障对象：Viz','保障状态：正常','下一次续费：18 天后','重要提示：具体以正式条款为准']"/></template><script setup lang="ts">import FeaturePage from '@/components/FeaturePage.vue'</script>

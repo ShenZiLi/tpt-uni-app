@@ -1,0 +1,1 @@
+<template><FeaturePage title="理赔进度" subtitle="模拟展示当前申请进展" headline="材料补充中" body="还差 1 份诊断证明，补充后即可进入审核环节。" action="补充诊断证明" metric="60%" :items="['已提交申请 · 9月12日','材料初审通过 · 9月13日','补充诊断证明 · 待处理','审核结果 · 待处理']"/></template><script setup lang="ts">import FeaturePage from '@/components/FeaturePage.vue'</script>
