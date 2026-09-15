@@ -2,3 +2,4 @@
 .codebase-memory/
 node_modules/
 dist/
+.idea
