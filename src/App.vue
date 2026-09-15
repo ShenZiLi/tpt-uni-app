@@ -1,13 +1,8 @@
 <script setup lang="ts">
-import { onLaunch, onShow, onHide } from "@dcloudio/uni-app";
+import { onLaunch } from '@dcloudio/uni-app'
+
 onLaunch(() => {
-  console.log("App Launch");
-});
-onShow(() => {
-  console.log("App Show");
-});
-onHide(() => {
-  console.log("App Hide");
-});
+  uni.setNavigationBarColor({ frontColor: '#000000', backgroundColor: '#f6f4ff' })
+})
 </script>
 <style></style>
